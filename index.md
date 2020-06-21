@@ -12,3 +12,8 @@ Linus gehört nicht zu den emotional empathischen Menschen, aber seine offene un
 * unterhaltsam
 * aufbrausend
 
+
+>Some people have told me they don't think a fat penguin really 
+>embodies the grace of Linux, which just tells me they have never seen 
+>a angry penguin charging at them in excess of 100mph. They'd be a lot
+> more careful about what they say if they had.
